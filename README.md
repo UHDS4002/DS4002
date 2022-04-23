@@ -11,3 +11,10 @@ Codes That Are Written In TA Classes.
 - hanoi tower
 
 note: my (Esmail) codes are in `__init__.py` file. other modules are written in class. 
+
+---
+### Session 4:
+
+- traverse a linked list recursively (trav.py)
+- remove repetitive elements (SLL) (rem.py)
+- reverse a given linked list (rev.py)
